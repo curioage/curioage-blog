@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Curioage</title>
-    <link>https://github.com/curioage/curioage-blog/tags/</link>
+    <link>http://localhost:1313/curioage-blog/tags/</link>
     <description>Recent content in Tags on Curioage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://github.com/curioage/curioage-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/curioage-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dust</title>
-      <link>https://github.com/curioage/curioage-blog/tags/dust/</link>
+      <link>http://localhost:1313/curioage-blog/tags/dust/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/curioage/curioage-blog/tags/dust/</guid>
+      <guid>http://localhost:1313/curioage-blog/tags/dust/</guid>
       <description></description>
     </item>
     <item>
       <title>Transport</title>
-      <link>https://github.com/curioage/curioage-blog/tags/transport/</link>
+      <link>http://localhost:1313/curioage-blog/tags/transport/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/curioage/curioage-blog/tags/transport/</guid>
+      <guid>http://localhost:1313/curioage-blog/tags/transport/</guid>
       <description></description>
     </item>
   </channel>
