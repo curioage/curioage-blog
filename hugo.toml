@@ -1,4 +1,4 @@
-baseURL = 'https://curioage.github.io/curioage-blog/'
+baseURL = 'https://github.com/curioage/curioage-blog/'
 languageCode = 'en-us'
-title = 'Curioage'
-theme = 'smigle'
+title = 'bba'
+theme = 'css'
