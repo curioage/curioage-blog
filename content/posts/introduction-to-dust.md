@@ -26,13 +26,6 @@ The terms dust and sand usually refer to solid inorganic particles that are deri
 The wind-driven emission, transport, and deposition of sand and Dust by wind are termed aeolian processes, after the Greek god __Aeolus__, the keeper of the winds.
 
 
-{{ with .Resources.GetMatch "1.png" }}
-  {{ with .Resize (printf "%dx%d r90" .Height .Width) }}
-    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-  {{ end }}
-{{ end }}
-
-
 
 
 **Figure 1**: Dune types[^2]
