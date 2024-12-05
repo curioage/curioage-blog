@@ -2,10 +2,6 @@
 title: Introduction to Dust
 date: 2024-04-12
 draft: false
-module:
-  mounts:
-  - source: content/images
-    target: content
 genres:
 - science
 params:
