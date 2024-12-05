@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Curioage</title>
+    <link>http://localhost:1313/curioage-blog/posts/</link>
+    <description>Recent content in Posts on Curioage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/curioage-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Dust</title>
+      <link>http://localhost:1313/curioage-blog/posts/introduction-to-dust/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/curioage-blog/posts/introduction-to-dust/</guid>
+      <description>Introduction Dust and Sand1 The terms dust and sand usually refer to solid inorganic particles that are derived from the weathering of rocks. In the geological sciences, sand is defined as mineral (i.e. rock derived) particles with diameters between 62.5 and 2000 µm, whereas dust is defined as particles with diameters smaller than 62.5 µm (note that the boundary of 62.5 µm differs depending on particle size classification schemes). In the atmospheric sciences, Dust is usually defined as the material that can be readily suspended by wind whereas sand is rarely suspended and can thus form sand dunes and ripples, which are collectively termed bedforms.</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/curioage-blog/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/curioage-blog/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>

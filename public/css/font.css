@@ -1,0 +1,56 @@
+/* Regular Rock Salt Font */
+@font-face {
+    font-family: "Cakecafe";
+    src:
+        local("Cakecafe"),
+        url("/fonts/Cakecafe.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Acme";
+    src:
+        local("Acme"),
+        url("/fonts/acme-regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src:
+        local("Source Code Pro"),
+        url("/fonts/sourcecodepro.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Consolas Font */
+@font-face {
+    font-family: "Consolas";
+    src:
+        local("Consolas"),
+        url("/fonts/consolas_regular.TTF") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Consolas";
+    src:
+        local("Consolas"),
+        url("/fonts/consolas_bold.TTF") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Italic Rock Salt Font */
+@font-face {
+    font-family: "Consolas";
+    src:
+        local("Consolas"),
+        url("/fonts/consolas_italic.TTF") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
