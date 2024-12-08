@@ -1,0 +1,11 @@
+{{- $toc := .Site.Params.toc -}}
+{{- if isset .Params "toc" -}}
+    {{ $toc = .Params.toc }}
+{{- end -}}
+{{- if $toc -}}
+    <div class="toc">
+        <h1>On This Page</h1>
+        <h2><b>{{ T "single.table_of_contents" }}</b></h2>
+        {{ .TableOfContents }}
+    </div>
+{{- end -}}

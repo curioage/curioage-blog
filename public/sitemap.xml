@@ -2,27 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://curioage.github.io/curioage-blog/</loc>
+    <loc>http://localhost:1313/curioage-blog/categories/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://curioage.github.io/curioage-blog/tags/dust/</loc>
+    <loc>http://localhost:1313/curioage-blog/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://curioage.github.io/curioage-blog/posts/introduction-to-dust/</loc>
+    <loc>http://localhost:1313/curioage-blog/tags/dust/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://curioage.github.io/curioage-blog/posts/</loc>
+    <loc>http://localhost:1313/curioage-blog/posts/post-1/introduction-to-dust/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://curioage.github.io/curioage-blog/tags/</loc>
+    <loc>http://localhost:1313/curioage-blog/posts/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://curioage.github.io/curioage-blog/tags/transport/</loc>
+    <loc>http://localhost:1313/curioage-blog/categories/science/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://curioage.github.io/curioage-blog/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/curioage-blog/tags/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/curioage-blog/tags/transport/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/curioage-blog/tags/blue/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://curioage.github.io/curioage-blog/categories/</loc>
+    <loc>http://localhost:1313/curioage-blog/posts/my-first-post/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/curioage-blog/tags/red/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/curioage-blog/about/</loc>
   </url>
 </urlset>

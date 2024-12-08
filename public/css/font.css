@@ -2,7 +2,14 @@
 @font-face {
     font-display: swap;
     font-family: "Cakecafe";
-    src: url("../fonts/Cakecafe.ttf") format("truetype");
+    src: url("/fonts/Cakecafe.eot");
+    src: local('Cakecafe'),
+        url("/fonts/Cakecafe.eot?#iefix") format("embedded-opentype"),
+        url("/fonts/Cakecafe.ttf") format("truetype"),
+        url("/fonts/Cakecafe.svg#Cakecafe") format("svg"),
+        url("/fonts/Cakecafe.woff") format("woff"),
+        url("/fonts/Cakecafe.woff2") format("woff2"),
+        url("/fonts/Cakecafe.otf") format("otf");
     font-weight: normal;
     font-style: normal;
 }
@@ -10,7 +17,7 @@
 @font-face {
     font-display: swap;
     font-family: "Acme";
-    src: url("../fonts/acme-regular.ttf") format("truetype");
+    src: url("/fonts/acme-regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -18,7 +25,7 @@
 @font-face {
     font-display: swap;
     font-family: "Source Code Pro";
-    src: url("../fonts/sourcecodepro.ttf") format("truetype");
+    src: url("/fonts/sourcecodepro.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -27,7 +34,7 @@
 @font-face {
     font-display: swap;
     font-family: "Consolas";
-    src: url("../fonts/consolas_regular.TTF") format("truetype");
+    src: url("/fonts/consolas_regular.TTF") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -44,7 +51,7 @@
 @font-face {
     font-display: swap;
     font-family: "Consolas";
-    src: url("../fonts/consolas_italic.TTF") format("truetype");
+    src: url("/fonts/consolas_italic.TTF") format("truetype");
     font-weight: normal;
     font-style: italic;
 }

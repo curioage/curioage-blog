@@ -1,7 +1,29 @@
-baseURL = "https://curioage.github.io/curioage-blog/"
+baseURL = "https://curioage.github.io/curioage-blog"
 languageCode = "en-us"
 theme = "smigle"
 title = "Curioage"
+summaryLength = 20
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+paginate = 4
+
+
+[services]
+# To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
+# To disable Google Analytics, simply leave the field empty or remove the next two lines
+#  [services.googleAnalytics]
+#    id = '' # G-MEASUREMENT_ID
+
+# To enable Disqus comments, provide Disqus Shortname below.
+# To disable Disqus comments, simply leave the field empty or remove the next two lines
+  [services.disqus]
+    shortname = "varta-1"
+
+[[module.mounts]]
+    source = 'content'
+    target = 'content'
 
 [[menu.main]]
 identifier = "home"
@@ -41,27 +63,26 @@ weight = 6
 
 [params]
 abbrDateFmt = "Jan 2"
-author = "Blog Author"
-# brandIconFile = "images/brandIcon.svg"
+author = "Vishal Kumar"
+brandIconFile = "images/brandIcon.svg"
 dateFmt = "2006-01-02"
-subtitle = "Memos and Musings"
+subtitle = "Memo & Musings"
+toc = true
 
-[[params.social]]
-name = "GitHub"
-url = "https://github.com/ian-s-mcb"
+  [[params.social]]
+  name = "YouTube"
+  url = "https://youtube.com/@curioage1204"
 
-[[params.social]]
-name = "GitLab"
-url = "https://gitlab.com/ian-s-mcb"
+  [[params.social]]
+  name = "Linkedin"
+  url = "https://linkedin.com/in/vishal-kumar-01816b34/"
 
-[[params.social]]
-name = "Quizlet"
-url = "https://quizlet.com/ian-s-mcb"
 
-[[params.social]]
-name = "Reddit"
-url = "https://www.reddit.com/user/ian-s-mcb"
+  [[params.social]]
+  name = "X"
+  icon ="twitter"
+  url = "https://x.com/vishal_kr15"
 
-[[params.social]]
-name = "StackOverflow"
-url = "https://stackoverflow.com/users/3417846/ian-s-mcb"
+  [[params.social]]
+  name = "Google Scholar"
+  url = "https://scholar.google.co.in/citations?hl=en&user=WkOnSlkAAAAJ"
