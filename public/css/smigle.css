@@ -19,7 +19,7 @@
     margin: 0;
 }
 #brand h1 {
-    font-family: Cakecafe;
+    font-family: "Cakecafe";
     font-size: 60px;
     font-style: italic;
     color: #ff3e3e;
@@ -28,7 +28,7 @@
 
 @media (prefers-color-scheme: dark) {
     #brand h1 {
-        font-family: Cakecafe;
+        font-family: "Cakecafe", sans-serif;
         font-style: italic;
         font-size: 60px;
         color: #fab12f;
@@ -36,11 +36,12 @@
     }
 }
 #brand h3 {
-    font-family: Acme;
+    font-family: "Acme", sans-serif;
     font-style: normal;
     font-size: 20px;
     font-weight: normal;
 }
+
 #brand .icon {
     width: 75px;
 }
