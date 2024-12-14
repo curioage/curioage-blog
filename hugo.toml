@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax = true
 paginate = 4
 
 
-[services]
+# [services]
 # To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
 # To disable Google Analytics, simply leave the field empty or remove the next two lines
 #  [services.googleAnalytics]
@@ -18,12 +18,13 @@ paginate = 4
 
 # To enable Disqus comments, provide Disqus Shortname below.
 # To disable Disqus comments, simply leave the field empty or remove the next two lines
-  [services.disqus]
-    shortname = "varta-1"
+# [services.disqus]
+# shortname = "varta-1"
 
-[[module.mounts]]
-    source = 'content'
-    target = 'content'
+#[[module.mounts]]
+#    source = 'static/images'
+#    target = 'static/images'
+
 
 [[menu.main]]
 identifier = "home"
@@ -69,20 +70,20 @@ dateFmt = "2006-01-02"
 subtitle = "Memo & Musings"
 toc = true
 
-  [[params.social]]
-  name = "YouTube"
-  url = "https://youtube.com/@curioage1204"
+[[params.social]]
+name = "YouTube"
+url = "https://youtube.com/@curioage1204"
 
-  [[params.social]]
-  name = "Linkedin"
-  url = "https://linkedin.com/in/vishal-kumar-01816b34/"
+[[params.social]]
+name = "Linkedin"
+url = "https://linkedin.com/in/vishal-kumar-01816b34/"
 
 
-  [[params.social]]
-  name = "X"
-  icon ="twitter"
-  url = "https://x.com/vishal_kr15"
+[[params.social]]
+name = "X"
+icon = "twitter"
+url = "https://x.com/vishal_kr15"
 
-  [[params.social]]
-  name = "Google Scholar"
-  url = "https://scholar.google.co.in/citations?hl=en&user=WkOnSlkAAAAJ"
+[[params.social]]
+name = "Google Scholar"
+url = "https://scholar.google.co.in/citations?hl=en&user=WkOnSlkAAAAJ"

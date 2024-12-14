@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/curioage-blog/tags/transport/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Dust</title>
-      <link>http://localhost:1313/curioage-blog/posts/post-1/introduction-to-dust/</link>
+      <link>http://localhost:1313/curioage-blog/posts/introduction-to-dust/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/curioage-blog/posts/post-1/introduction-to-dust/</guid>
+      <guid>http://localhost:1313/curioage-blog/posts/introduction-to-dust/</guid>
       <description>Introduction Dust and Sand The terms dust and sand usually refer to solid inorganic particles that are derived from the weathering of rocks.</description>
     </item>
   </channel>
